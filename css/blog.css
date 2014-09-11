@@ -1,0 +1,8 @@
+/*Resize Pics*/
+p#minimize {
+	max-width: 70%;
+}
+
+p#maximize {
+	max-width: 100%;
+}
