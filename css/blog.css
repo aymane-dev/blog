@@ -1,0 +1,18 @@
+
+div.blogcontainer{
+	background-color: #ffffff;
+	margin: 0px;
+
+}
+div.topbar {
+	background-color: #44bbcc; 
+}
+
+/*Resize Pics food.html*/
+.minimize {
+	max-width: 70%;
+}
+
+.maximize {
+	max-width: 100%;
+}
