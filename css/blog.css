@@ -5,6 +5,8 @@
 div{
 	background-color: #ffffff;
 	margin-top: 0px;
+    word-wrap: break-word;
+    text-align: center;
 
 }
 div.topbar {
@@ -37,4 +39,12 @@ p {
 }
 p.noindent {
 	text-indent: 0px;
+}
+h1 {
+	text-align: center;
+} img#topimage {
+	max-height: 500px;
+}
+h2.textcenter {
+	text-align: center;
 }
