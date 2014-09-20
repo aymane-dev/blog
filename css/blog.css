@@ -1,3 +1,10 @@
+/*for class*/
+.js-test {
+    background: #0074D9;
+}
+
+
+
 * {
 	box-sizing: border-box;
 }
@@ -9,10 +16,7 @@ div{
     text-align: center;
 
 }
-div.topbar {
-	background-color: #44bbcc; 
-	max-width: 100%;
-}
+
 
 /*Resize Pics food.html*/
 .minimize {
@@ -29,7 +33,7 @@ div.topbar {
 a {
 	margin-left: 3px;
 }
-img.imagecenter {
+.imagecenter {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -37,14 +41,16 @@ img.imagecenter {
 p {
     text-indent: 20px;
 }
-p.noindent {
+.noindent {
 	text-indent: 0px;
 }
 h1 {
 	text-align: center;
-} img#topimage {
+} 
+#topimage {
 	max-height: 500px;
 }
-h2.textcenter {
+.textcenter {
 	text-align: center;
 }
+
